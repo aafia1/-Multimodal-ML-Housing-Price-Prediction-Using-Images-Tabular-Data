@@ -1,0 +1,11 @@
+id,image,bedrooms,bathrooms,sqft,age,lot_size,city_idx,price,split
+1,house1.jpg,3,2,1400,10,2000,1,250000,train
+2,house2.jpg,4,3,1800,5,2500,2,320000,train
+3,house3.jpg,2,1,900,20,1500,1,150000,val
+4,house4.jpg,5,4,2200,8,3000,3,400000,test
+5,house5.jpg,3,2,1600,12,2100,2,280000,train
+6,house6.jpg,4,3,2000,7,2600,3,350000,val
+7,house7.jpg,2,1,1000,15,1700,1,180000,test
+8,house8.jpg,3,2,1500,9,2200,2,270000,train
+9,house9.jpg,4,3,1900,6,2400,3,330000,val
+10,house10.jpg,5,4,2300,4,3100,1,420000,test
